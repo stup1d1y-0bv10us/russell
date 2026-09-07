@@ -20,7 +20,7 @@ isready
 position startpos
 go depth 15
 
-## cambios v1.1 (respecto a tuna base)
+## cambios v1.1
 
 * `engine/src/datagen/selfplay.cpp`->elimina rama vacia relacionada con el muestreo de posiciones durante la grabacion.
 * `engine/src/search/search.cpp`->corrige bucle de profundizacion iterativa para evitar comprobaciones innecesarias cuando no existe movimiento valido.
