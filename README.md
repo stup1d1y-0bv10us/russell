@@ -33,3 +33,5 @@ go depth 15
 ## licencia
 
 mit (fathom syzygy se distribuye bajo licencia mit, ver `engine/third_party/fathom`)
+
+note: puede que te estes preguntando por que se llama russell, basicamente el motor fue nombrado asi por la vibora de russell :p
